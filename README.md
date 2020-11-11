@@ -1,2 +1,2 @@
 # HelloK8s
-# Just fot testing AKS CI/CD pipeline
+# Just to test AKS CI/CD pipeline
